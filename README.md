@@ -1,7 +1,7 @@
 # Rendu-PHP
 Création un carnet d'adresse sous forme d'application web à l'aide du framework API Platform.
 
-Il s'agit de réaliser une application de type CRUD (Create-Retrieve-Update-Delete) comprenant les fonctionnalités suivantes :
+Il s'agit de réaliser une application de type CRUD (Create-Retrieve-Update-Delete) comprenant les fonctionnalités suivantes:
   - Liste de tous les contacts
   - Création d'un nouveau contact
   - Mise à jour d'un contact existant
