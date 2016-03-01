@@ -1,4 +1,8 @@
-# Rendu-PHP
+Rendu-PHP
+=========
+
+A Symfony project created on March 1, 2016, 10:10 am.
+
 Création un carnet d'adresse sous forme d'application web à l'aide du framework API Platform.
 
 Il s'agit de réaliser une application de type CRUD (Create-Retrieve-Update-Delete) comprenant les fonctionnalités suivantes:
